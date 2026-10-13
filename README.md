@@ -76,4 +76,5 @@ Status do projeto:
 Projeto acadêmico já concluído e apresentado. No entanto, ainda está sujeito a ajustes, correções e melhorias de interface, usabilidade, acessibilidade e organização do código.
 
 Contribuições:
+
 Sugestões, relatos de problemas e propostas de melhoria são bem-vindos. Ao contribuir, descreva a alteração sugerida e, quando possível, inclua os passos necessários para reproduzir o problema.
