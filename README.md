@@ -1,4 +1,5 @@
 PROZ CENTER — Sistema de Prontuário Eletrônico
+
 Tecnologia, cuidado e aprendizagem conectados à realidade da área da saúde.
 
 O PROZ CENTER é um projeto acadêmico que propõe a simulação de um sistema de prontuário eletrônico voltado à rotina de profissionais de enfermagem em uma clínica psiquiátrica. Desenvolvido com tecnologias web, o sistema reúne funcionalidades que representam atividades de organização, acompanhamento e registro de informações relacionadas ao cuidado dos pacientes. Mais do que desenvolver uma aplicação, a proposta foi compreender dificuldades presentes no cotidiano da área da saúde e explorar como a tecnologia pode contribuir para tornar determinados processos mais organizados e acessíveis.
